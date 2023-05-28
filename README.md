@@ -10,5 +10,5 @@ I also use pytest to do unit and end-to-end test.
 1. create a virtual environment: `python3 -m venv myvenv`.  
 2. Run: `source myvenv/bin/activate`  
 3. Run: `pip install -r requirements.txt`  
-4. Run the transformer script: `python transformer.py`  
+4. Run the transformer script: `python main.py`  
 5. Run tests: `pytest`  
