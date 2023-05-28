@@ -1,0 +1,7 @@
+UserId,ContentId,ContentUrl
+1,1,https://www.google.com
+,,http://www.udemy.com
+2,2,https://www.abc.gov
+2,2,https://www.abc.gov
+3,3,
+4,4,file://abcde
